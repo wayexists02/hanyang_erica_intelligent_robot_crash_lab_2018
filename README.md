@@ -2,7 +2,7 @@
 
 Team project in this class.
 
-(with JunHee Won, HyunWook Kim, HyeMin Nam)
+(with JunHee Won, HyunKyu Kim, HyeMin Nam)
 
 We used dynamixel to implement flap motion of our robot.
 We use other YOLO implementation to process vision. Using vision information, our robot can move or rotate.
